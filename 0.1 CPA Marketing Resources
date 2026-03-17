@@ -1,0 +1,26 @@
+//This is a CPA Marketing Web page
+// Copy below code and paste in a node pad file and save it as ...html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CPA - marketing resources</title>
+</head>
+
+<body>
+<p style="text-decoration:underline">Free Resource</p>
+
+<a href="https://chatgpt.com">ইসক্রিপট রাইটিং - https://chatgpt.com/<a/> <br /><br />
+<a href="https://elevenlabs.io">টেক্সট তো ভয়েস মেকিং - https://elevenlabs.io/<a/> <br /><br />
+<a href="https://www.synthesia.io">মডেল ভিডিও মেকিং - https://www.synthesia.io/<a/> <br /><br />
+<a href="https://www.affpaying.com">মার্কেট প্লেস রিসৌর্স - https://www.affpaying.com/<a/> <br /><br />
+
+
+<p style="text-decoration:underline">Paid Resource</p>
+
+</body>
+</html>
+
+
+
