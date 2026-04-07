@@ -7,3 +7,39 @@ Keyword Research Tools
 -	Ubersuggest (https://neilpatel.com/ubersuggest/)
 -	Answer the Public (https://answerthepublic.com/en)
 -	www.keyword.io (https://www.keyword.io/)
+
+How to do Key Word Research:
+------------------------------
+1. copy the product name like below from CPA market offer that you want to work
+	- CBD Oil
+	- League of Legends
+
+2. paste in search box
+	- Niche Laboratory (https://digitalmarketingsupermarket.com/tool/niche-laboratory/)
+	- www.keyword.io (https://www.keyword.io/)
+
+3. click on search button
+
+4. wait few minute
+6. copy the keywords and paste in text/node pad file
+7. copy the keywords and paste from text/node pad file to excel file
+8. if keywords has commas, you can separate it through https://www.dcode.fr/values-separation
+9. to find dublicate use (=countif(A:A,A1)>1) function:
+	- select all keywords of excel
+	- go to Format menu --> conditional formating
+	- Format rules --> Custom format is
+	- in "Custom format is" text box, paste =countif(A:A,A1)>1 and select color, click on done button
+
+10. delete dublicate keywords
+11. select all from excel --> Data menu --> short (A-Z)
+12. now, remove informational keywords and irrelevent keywords (who, which, what, how related keywords other irrelevent keywords)
+     by (x) mark in excel and delete all
+
+13. copy each of the keywords (one by one) --> go to google trand (country: United State, 90 days) --> search, download, make average
+      and write (value) in excel another field at the side of keyword  (keyword | average value)
+
+14. select all values and --> Data menu --> short (Z-A)
+
+15. copy first 25 keywords for your advertizing
+
+
