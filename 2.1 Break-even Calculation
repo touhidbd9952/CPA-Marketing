@@ -1,0 +1,83 @@
+🎯 Break-even মানে কী?
+
+Break-even = না লাভ, না লস (০ profit, ০ loss)
+👉 আপনি যত টাকা খরচ করবেন, ঠিক ততটাই আয় করবেন।
+
+
+ধরি:
+CPA payout = $10 (একটা conversion হলে আপনি $10 পাবেন)
+Conversion rate = 2%
+
+🧠 Step-by-step বুঝি
+
+✅ Step 1: Conversion rate বুঝি
+
+2% মানে:
+👉 100 জন click করলে → 2 জন conversion (buy) করবে
+
+✅ Step 2: Total earning হিসাব করি
+2 conversion × $10 = $20 earning
+
+👉 100 click থেকে আপনি $20 আয় করছেন
+
+✅ Step 3: Break-even cost
+
+👉 এখন প্রশ্ন: 100 click আনতে আপনি কত খরচ করতে পারবেন?
+
+✔ Answer:
+
+সর্বোচ্চ $20 খরচ করতে পারবেন
+
+কারণ:
+
+$20 খরচ → $20 আয় → No profit, No loss
+✅ Step 4: CPC (Cost Per Click) হিসাব
+
+👉 CPC = প্রতি ক্লিকের খরচ
+
+Formula:
+
+Max CPC = Total cost ÷ Total clicks
+
+👉 এখানে:
+
+Total cost = $20
+Total clicks = 100
+
+👉 তাই:
+
+Max CPC = $20 ÷ 100 = $0.20
+
+💡 Final Result
+
+👉 যদি আপনার CPC $0.20 এর বেশি হয় → ❌ Loss
+👉 যদি আপনার CPC $0.20 এর কম হয় → ✅ Profit
+
+🔥 Real-life Example
+CPC	Result
+$0.10	Profit (খরচ কম, আয় বেশি)
+$0.20	Break-even
+$0.30	Loss
+🚀 Shortcut Formula (মনে রাখার জন্য)
+
+👉 Max CPC = CPA payout × Conversion rate
+
+👉 এখানে:
+
+$10 × 2% = $10 × 0.02 = $0.20
+⚠️ গুরুত্বপূর্ণ টিপস
+Conversion rate সবসময় fixed না (change হয়)
+তাই শুরুতে small budget দিয়ে test করুন
+Landing page ভালো হলে conversion rate বাড়বে → profit বাড়বে
+🧠 Pro Insight
+
+👉 আপনি আসলে এই প্রশ্নটা সবসময় করবেন:
+
+“আমি প্রতি click কত টাকা পর্যন্ত খরচ করতে পারি যাতে loss না হয়?”
+
+👉 এই উত্তরই হলো Break-even CPC
+
+
+
+
+
