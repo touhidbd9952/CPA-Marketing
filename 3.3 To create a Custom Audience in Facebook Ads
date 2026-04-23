@@ -1,0 +1,92 @@
+To create a Custom Audience in Facebook Ads (inside Meta Ads Manager), follow these steps:
+
+1. Open Ads Manager
+
+Go to
+
+2. Open Audiences
+Click the Menu (☰) in the top-left.
+Under Advertise, select Audiences.
+3. Click “Create Audience”
+
+Choose Custom Audience.
+
+4. Select Audience Source
+
+You’ll see different sources:
+
+✅ Website Traffic
+People who visited your website.
+(Requires Meta Pixel installed)
+
+Examples:
+
+All website visitors
+People who visited specific pages
+People who spent more time on your site
+
+✅ Customer List
+Upload:
+
+Email list
+Phone numbers
+Customer names
+
+Format: CSV / TXT
+
+✅ Engagement
+People who interacted with your:
+
+Facebook Page
+Instagram account
+Videos
+Lead forms
+Events
+
+Examples:
+
+People who liked/commented/shared your post
+People who watched 50% of your video
+People who messaged your page
+
+✅ App Activity
+People who used your mobile app.
+
+✅ Offline Activity
+People who visited your physical store or took action offline.
+
+5. Set Rules
+
+Example for website:
+
+URL contains /checkout
+Last 30 days visitors only
+
+Example for engagement:
+
+People who engaged with your page in last 365 days
+6. Name Your Audience
+
+Example:
+
+Website Visitors 30 Days
+IG Engagers 90 Days
+Video Viewers 50%
+7. Click Create Audience
+
+Facebook will start collecting or matching people.
+
+Bonus Tip:
+
+After creating Custom Audience, create a Lookalike Audience from it to find similar people.
+
+Example:
+Custom Audience → Purchasers → Lookalike 1% USA
+
+Custom Audience helps in:
+✔ Retargeting visitors
+✔ Re-engaging old customers
+✔ Lower ad cost
+✔ Better conversion rate
+
+
