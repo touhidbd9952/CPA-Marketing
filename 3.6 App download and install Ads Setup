@@ -1,0 +1,110 @@
+To download and install app on Facebook, use "App Promotion" Ads in Faceboo Ads Manager.
+
+Step-by-step:
+1. Open Meta Ads Manager
+
+    Go to Meta Ads Manager and click Create Campaign.
+
+2. Choose Campaign Objective
+
+    Select App Promotion (or “App Installs” in some accounts).
+
+    This tells Meta to find people likely to install apps.
+
+3. Select App
+
+Choose:
+    - Google Play for Android app
+    - Apple App Store for iPhone app
+
+Search the app by name or paste the app link.
+
+    Example:
+        https://play.google.com/store/apps/details?id=com.example.app
+
+4. Set Conversion Location
+
+    Choose where you want installs from:
+
+    - App Store
+    - Google Play
+    - Direct app events (if SDK installed)
+
+5. Set Audience
+
+    Target by:
+    - Country / City
+    - Age
+    - Gender
+    - Interests
+    - Device type (Android / iPhone)
+    - WiFi only (optional)
+
+    Example:
+    - Country: USA
+    - Age: 18–45
+    - Interest: Online shopping / Gaming / Finance (depends on app)
+
+6. Set Budget
+
+    Start with:
+    - $5–$20/day test budget per ad set
+
+    After good results, increase slowly.
+
+7. Placement
+
+Use Advantage+ Placements (automatic)
+    Ads show on:
+    - Facebook Feed
+    - Instagram Feed
+    - Stories
+    - Reels
+    - Audience Network
+    - Messenger
+
+8. Create Ad Creative
+
+    Use:
+      ✅ App screenshot/video
+      ✅ Demo video
+      ✅ Attractive headline
+
+    Example:
+
+      Primary Text:
+        “Download now and get 20% discount on your first order!”
+
+      Headline:
+      - Install Now
+
+      CTA Button:
+      - Install Now / Download
+
+9. Add Tracking
+
+Install:
+
+Meta SDK or
+Firebase + AppsFlyer / Adjust
+
+This helps track:
+
+installs
+purchases
+registrations
+10. Publish & Monitor
+
+Check metrics like:
+
+CPI = Cost Per Install
+CTR = Click Through Rate
+CPC = Cost Per Click
+ROAS if app sells products
+Pro Tips:
+Use video ads for better install rate.
+Run separate campaigns for Android and iPhone.
+Retarget people who clicked but didn’t install.
+Create Lookalike Audience from existing users.
+
+This is the best Facebook ad type for app downloads and installs.
