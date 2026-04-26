@@ -1,0 +1,211 @@
+///How to test which ad performing better on Facebook?///////////////
+
+To test which ad performs better on Facebook / Meta, use A/B Testing (Split Test) in Meta Ads Manager.
+
+Step-by-step:
+- Open Ads Manager
+- Go to your campaign dashboard.
+- Create a New Campaign
+
+Choose your objective:
+- Sales
+- Leads
+- Traffic
+- Engagement
+- App Promotion
+
+Turn On A/B Test
+During campaign creation, enable A/B Test.
+
+Test One Variable at a Time
+Example variables:
+Creative → image vs video
+Audience → male vs female / country vs country
+Placement → Facebook Feed vs Instagram Feed
+Headline/Text → different ad copy
+CTA Button → Shop Now vs Learn More
+
+Keep Everything Else Same
+If testing image, keep:
+same audience
+same budget
+same schedule
+Set Budget & Run 3–7 Days
+
+Example:
+Ad A = $5/day
+Ad B = $5/day
+
+Check Results
+Compare metrics like:
+CTR (Click Through Rate)
+CPC (Cost Per Click)
+CPA (Cost Per Action/Lead/Sale)
+ROAS (Return on Ad Spend)
+
+Example:
+
+Ad A:
+Image ad
+CTR 2.5%
+CPC $0.10
+
+Ad B:
+Video ad
+CTR 1.2%
+CPC $0.25
+
+→ Ad A is performing better.
+
+Pro Tip:
+- Duplicate one ad and change only one thing.
+- This helps find the exact winning factor.
+
+This process is called Creative Testing or Split Testing in digital marketing.
+
+
+--------------------------------------------------------------------------------------------
+
+ফেসবুকে কোন অ্যাড ভালো পারফর্ম করছে সেটা টেস্ট করার সবচেয়ে ভালো উপায় হলো A/B Testing (Split Test) ব্যবহার করা, যা আপনি Meta Ads Manager এর ভিতরেই করতে পারবেন।
+
+🔥 A/B Test কী?
+
+A/B Test মানে হলো একই ধরনের দুই বা ততোধিক অ্যাড চালিয়ে দেখা, কোনটা বেশি ভালো কাজ করছে।
+
+📌 ধাপে ধাপে কীভাবে করবেন:
+1. Ads Manager খুলুন
+
+Facebook / Meta এর Ads Manager এ যান।
+
+2. নতুন Campaign তৈরি করুন
+
+আপনার লক্ষ্য (Objective) নির্বাচন করুন:
+- Sales (বিক্রি বাড়াতে)
+- Leads (কাস্টমার ইনফরমেশন নিতে)
+- Traffic (ওয়েবসাইট ভিজিট)
+- Engagement (লাইক, কমেন্ট, শেয়ার)
+- App Install (অ্যাপ ডাউনলোড)
+
+3. A/B Test চালু করুন
+Campaign সেটআপের সময় “A/B Test” অপশন অন করুন।
+
+4. শুধু ১টা জিনিস পরিবর্তন করুন
+একবারে শুধু একটি বিষয় পরিবর্তন করবেন, যেমন:
+- ছবি বনাম ভিডিও
+- দুইটা আলাদা অডিয়েন্স
+- দুইটা আলাদা টেক্সট/হেডলাইন
+- দুইটা আলাদা CTA বাটন (Shop Now / Learn More)
+
+👉 বাকি সব একই রাখবেন
+
+5. বাজেট সেট করুন
+
+উদাহরণ:
+Ad A = ৫ ডলার/দিন
+Ad B = ৫ ডলার/দিন
+
+6. ৩–৭ দিন রান করুন
+কমপক্ষে কয়েক দিন চালালে সঠিক ডেটা পাবেন।
+
+7. রেজাল্ট দেখুন
+এই মেট্রিকগুলো তুলনা করবেন:
+
+CTR (Click Rate)
+CPC (Cost per Click)
+CPA (Cost per Sale/Lead)
+ROAS (Return on Ad Spend)
+
+🎯 সহজ উদাহরণ:
+Ad A (Image):
+CTR = 2.5%
+CPC = কম
+
+Ad B (Video):
+CTR = 1.2%
+CPC = বেশি
+
+👉 তাহলে Ad A বেশি ভালো পারফর্ম করছে
+
+💡 Pro Tip:
+একসাথে অনেক কিছু পরিবর্তন করবেন না।
+শুধু একটাই পরিবর্তন করলে আপনি বুঝতে পারবেন আসলেই কোন জিনিস কাজ করছে।
+
+--------------------------------------------------------------------------------------------
+
+
+📊 1. CTR (Click Through Rate) — ক্লিক রেট
+👉 CTR মানে হলো, আপনার অ্যাড দেখার পর কতজন মানুষ ক্লিক করছে।
+📌 ফর্মুলা:
+
+      Clicks ​× 100
+CTR = --------------
+      Impressions
+      
+📖 সহজভাবে:
+    1000 জন অ্যাড দেখলো
+    50 জন ক্লিক করলো
+👉 CTR = 5%
+
+🎯 অর্থ:
+CTR বেশি = অ্যাড আকর্ষণীয়
+CTR কম = অ্যাড দুর্বল বা অডিয়েন্স ঠিক না
+
+
+💰 2. CPC (Cost Per Click) — প্রতি ক্লিক খরচ
+👉 একবার ক্লিক পেতে আপনার কত টাকা খরচ হচ্ছে।
+📌 ফর্মুলা:
+             Total Ad Cost
+      CPC =  -----------------
+              Total Clicks
+
+📖 সহজভাবে:
+      আপনি খরচ করলেন 500 টাকা
+      ক্লিক পেলেন 100টা
+   👉 CPC = 5 টাকা
+   
+🎯 অর্থ:
+CPC কম = কম খরচে বেশি ভিজিট
+CPC বেশি = অ্যাড অপ্টিমাইজ দরকার
+
+🛒 3. CPA (Cost Per Action) — প্রতি কনভার্সন খরচ
+👉 একটি সেল বা লিড পেতে কত খরচ হচ্ছে।
+📌 ফর্মুলা:
+                  Total Ad Cost 
+        CPA =  ----------------------
+                    Conversions
+
+📖 সহজভাবে:
+      1000 টাকা খরচ
+      10টা লিড পেলেন
+    👉 CPA = 100 টাকা
+    
+🎯 অর্থ:
+    CPA কম = লাভ বেশি
+    CPA বেশি = প্রফিট কমে যাচ্ছে
+
+
+📈 4. ROAS (Return on Ad Spend) — বিজ্ঞাপনের রিটার্ন
+👉 আপনি 1 টাকা খরচ করে কত টাকা আয় করছেন।
+📌 ফর্মুলা:
+                  Revenue
+      ROAS = ---------------------
+                  Ad Spend
+
+📖 সহজভাবে:
+      অ্যাডে খরচ = 1000 টাকা
+      আয় = 5000 টাকা
+    👉 ROAS = 5
+    
+🎯 অর্থ:
+    ROAS > 1 = লাভ
+    ROAS < 1 = লস
+    ROAS 3–5 = ভালো অ্যাড ক্যাম্পেইন
+
+
+🔥 এক নজরে মনে রাখুন:
+      CTR = মানুষ কত ক্লিক করছে
+      CPC = প্রতি ক্লিক খরচ
+      CPA = প্রতি সেল/লিড খরচ
+      ROAS = লাভ নাকি লস
+
+      
