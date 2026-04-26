@@ -1,0 +1,60 @@
+1. Create --> Engagement --> Manual engagement campaign --> Continue
+2. Campaign name: Tshirt AD 2$  --> Next
+3. Ad set name: Tshirt-Adset-USA-2$
+4. Convension:
+	- Convension location: On your ad
+	- Engagement type: Post engagement
+	- Performance goal: Maximise engagement with a goal
+5. Budget & Schedule:
+	- Daily budget 	$2.00	USD
+	- Start date: set date
+	- End date: set date
+6. Audience Controls:
+	- Locations	(click on "Edit")
+	- Search locations: dhaka  
+	   (you can use "Drop pin" to locate location)
+
+7. Advantage+Audience:
+	- "Switch to orginal audience options" click
+	- "Further limit the reach of your ads" click
+	- "Continue" click
+	- Age	"Edit" click  and set 18-35 (set according to your requirement)
+	- Gender: "Man" click
+	- Detail Targeting: "Edit" click
+		- Search: 	Tshirt ("Tshirt clothing    Interest" click )
+			Shirt clothing   	Interest
+			Jeans  clothing	Interest
+		- Narrow Audience: Online Shopping
+8. Placements:
+	- "Edit Placement Controls" click
+	- "My business can only advertise on specific platform" on it --> "x" click to close
+	- Advantage+Placement: "Edit" click
+		- "Manual Placement" click
+			Platforms: Facebook
+			Feeds:
+				Facebook feed
+				Facebook profile feed
+				Facebook market place
+			Stories, Status, Reals: (uncheck)
+				Facebook Stories
+			Instream ads for Reals: (uncheck)
+			Allow limited spend to excluded placements: check
+	Next
+9. Ad name: 
+10. Facebook page: select your facebook page
+
+existed post
+----------------
+11. Ad setup: Use existed post
+12. Ad Creative: "Select post" click
+	- select your post --> "Continue" click
+	- "Ad preview" on  (if ad show here, it means ok)
+
+New Ad (Hidden/Dark Post)
+------------
+11. Ad setup: Create Ad
+12. Ad Creative: "Setup Creative" click --> "Image Ad" click
+	- select image --> "Next" click
+	- "Ad preview" on  (if ad show here, it means ok)
+	- Primary text: Write something about your ads
+	- Call to action (button): No button
