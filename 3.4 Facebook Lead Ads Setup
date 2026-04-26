@@ -1,0 +1,115 @@
+////How to collect visitors information (name, email, phone) to call customer later to sale his product//////////////
+
+To collect visitor info like name, email, and phone number on Facebook / Meta and let your client call them later, use Lead Generation Ads (also called Instant Forms).
+
+This ad opens a form inside Facebook or Instagram, so users can submit quickly.
+
+Steps to create Lead Ads:
+Go to Meta Ads Manager
+Click Create Campaign
+Select objective → Leads
+Campaign Level
+Choose Manual Leads Campaign or Instant Forms
+Name your campaign
+Ad Set Level
+
+Set these options:
+
+Conversion Location
+
+Choose Instant Forms
+
+Facebook Page
+
+Select your client’s page
+
+Audience
+
+Country / city / area
+Age
+Gender
+Interests / behavior
+
+Budget
+
+Daily or Lifetime budget
+
+Placements
+
+Automatic placements recommended
+Ad Level
+
+Create ad with:
+
+Image / video
+Primary text
+Headline
+CTA button like Apply Now, Get Quote, Learn More
+Create Instant Form
+
+In form settings:
+
+Add fields:
+✅ Full Name
+✅ Email
+✅ Phone Number
+
+Optional:
+
+Address
+Custom questions
+
+Example custom question:
+“When should we call you?”
+
+Privacy Policy
+
+Facebook requires a privacy policy link in Lead Form.
+
+Example:
+https://yourclientwebsite.com/privacy-policy
+
+Thank You Screen
+
+After submit, show:
+“Thanks! Our team will contact you soon.”
+
+Button options:
+
+Visit website
+Call business
+
+
+----------------------------------------------------------------------------------------------------------------
+
+/////How to download leads from Meta Ads Manager?//////////////////////////
+
+To download leads from Meta Ads Manager:
+
+Method 1: From Ads Manager
+Open Meta Ads Manager
+Select the Lead Ad Campaign
+Click the Ads tab
+Find your ad and click Results or On-Facebook Leads
+Click Download / Export New Leads
+Choose format:
+CSV
+Excel (.xlsx)
+Save file to your device
+Method 2: From Facebook Page
+Open your client’s Facebook Page
+Go to Publishing Tools or Professional Dashboard
+Click Instant Forms / Lead Center
+Select the form
+Click Download CSV
+Method 3: From Meta Business Suite
+Open Meta Business Suite
+Go to All Tools
+Open Instant Forms or Leads Center
+Select form
+Click Download
+Important:
+
+Leads are available for only 90 days on Meta, so download regularly.
+
+
