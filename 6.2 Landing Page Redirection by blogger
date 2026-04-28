@@ -1,0 +1,63 @@
+/////Landing Page Redirection////////////////////////////////////////
+          https://vimeo.com/1011941423/f470e41e18?fl=pl&fe=cm
+          
+1.	Get Offer From CPA Market Place
+ 
+2.	Url Shortner: 
+use blogger to make redirect link
+-	Open browser and type “blogger”
+-	Click on “blogger.com”
+ 
+3. How to post?
+
+Step-1
+-------------
+-	Click on “New Post”
+Title: Today Update 1
+Post description area:  
+			Sdafsdfsdf afdfaf sdfdsfdsa  (type something)
+	
+-	Click on “Publish” button
+
+Step-2
+-------------
+-	Click on “Your Post”
+a.	Title: Today Update 1 
+b.	Post description area:  
+    - Click on "edit" icon (left wide pan icon and select "HTML View")
+    - In “Post description area” type below redirect code
+    
+      <!DOCTYPE html> 
+      <html>
+      <head>
+        <title>Documentation Online</title>
+        <script type="text/javascript"> window.location.assign("Your Landing Page Link");</script> </head> 
+      <body>
+      </body> 
+      </html>
+	
+  -	Replace “Your Landing Page Link” by your product offer link (CPA)
+  -	Click on “Update” button
+
+Step-3
+-------------
+-	To get page url
+  a.	Go dashboard/home page of blogger page
+  b.	Select your blogger post and click on “eye” icon (right side)
+  c.	Copy url from browser
+
+
+Step-4
+-------------
+-	Save above url in a note pad
+-	Use url in advertise
+
+
+
+
+
+
+ 
+
+
+
