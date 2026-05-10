@@ -1,0 +1,28 @@
+////CPA মার্কেটাররা প্রতিদিন এই Metrics দেখে:///////////////////
+
+Metric	Full Meaning
+CTR	Click Through Rate  (কত মানুষ অ্যাড দেখে ক্লিক করলো )                         CTR = (Clicks / Ad shown) x 100
+CPC	Cost Per Click   (প্রতি ক্লিকে কত টাকা খরচ হচ্ছে)                                                  CPC = Ad Spend / Clicks
+CPM	Cost Per 1000 Impressions (1000 বার অ্যাড দেখাতে কত খরচ হচ্ছে)   CPM = (Ad Spend / Ad Shown) x 1000
+Conversion Rate	Conversion Percentage  (কত ক্লিক থেকে Conversion হলো)                      CR = (Conversions / Clicks) x 100
+EPC	Earnings Per Click  (প্রতি ক্লিকে average কত আয় হচ্ছে)                                    EPC = Total Earnins / Clicks
+CPA	Cost Per Acquisition  (একটি conversion পেতে কত খরচ হচ্ছে)                    CPA = Ad Spend / Conversions
+ROI	Return On Investment   ( লাভ না লস?)                                                                           ROI = (Profit / Ad Spend) x 100
+ROAS	Return On Ad Spend  (প্রতি $1 ad spend-এ কত income আসছে)                        ROAS = Income / Ad Spend
+If
+-	Ad Spend = $20
+-	Ad shown = 10,000 times 
+-	Clicks = 200
+-	Conversions = 5
+-	Earnings = $30
+
+Calculation				      সূত্র					মন্তব্য
+-------------------------------------------------------------------------------------------------------
+CTR = (200/10,000)x100 = 2%                            (Clicks / Ad Shown) x 100                                	Below 1% is Bad
+CPC = 20 / 200 = 0.1			        Ad Spend / Clicks     		             	Low CPC = ভালো
+CPM = (20/10,000) x 1000 = 2		        (Ad Spend / Ad Shown) x 1000                       	High CPM is not good
+CR = (5/200)x100 = 2.5			        (Conversions / Clicks) x 100		             	High CR = ভালো
+EPC = 30/200 = 0.15			        Total Earnins / Clicks			High EPC = ভালো
+CPA = 20/5 =  4 				        Ad Spend / Conversions			Offer payout > CPA = ভালো
+ROI = ((30-20)/20)x100 = 50%		        (Profit / Ad Spend) x 100			Positive = ভালো
+ROAS = 30/20 = 1.5			         Income / Ad Spend				>1 = ভালো
