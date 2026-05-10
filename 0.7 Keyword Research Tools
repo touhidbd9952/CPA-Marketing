@@ -36,6 +36,9 @@ How to do Key Word Research:
 12. now, remove informational keywords and irrelevent keywords (who, which, what, how related keywords and other irrelevent keywords)
      by (x) mark in excel and delete all
 
+		=OR(ISNUMBER(SEARCH("who",A1)),ISNUMBER(SEARCH("which",A1)),ISNUMBER(SEARCH("why",A1)),ISNUMBER(SEARCH("will",A1)),ISNUMBER(SEARCH("what",A1)),ISNUMBER(SEARCH("how",A1)))
+
+
 13. copy each of the keywords (one by one) --> go to google trand (country: United State, 90 days) --> search, download, make average
       and write (value) in excel another field at the side of keyword  (keyword | average value)
 
