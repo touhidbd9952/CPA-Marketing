@@ -2,14 +2,14 @@
 
 Metric	Full Meaning
 -----------------------------------------------------------------------------------------------------------------------
-- CTR	Click Through Rate  (কত মানুষ অ্যাড দেখে ক্লিক করলো )                           CTR = (Clicks / Ad shown) x 100
-- CPC	Cost Per Click  (প্রতি ক্লিকে কত টাকা খরচ হচ্ছে)                                  CPC = Ad Spend / Clicks
-- CPM	Cost Per 1000 Impressions (1000 বার অ্যাড দেখাতে কত খরচ হচ্ছে)                  CPM = (Ad Spend / Ad Shown) x 1000
-- Conversion Rate	Conversion Percentage  (কত ক্লিক থেকে Conversion হলো)               CR = (Conversions / Clicks) x 100
-- EPC	Earnings Per Click  (প্রতি ক্লিকে average কত আয় হচ্ছে)                            EPC = Total Earnins / Clicks
-- CPA	Cost Per Acquisition  (একটি conversion পেতে কত খরচ হচ্ছে)                      CPA = Ad Spend / Conversions
-- ROI	Return On Investment  (লাভ না লস?)                                              ROI = (Profit / Ad Spend) x 100
-- ROAS	Return On Ad Spend  (প্রতি $1 ad spend-এ কত income আসছে)                     ROAS = Income / Ad Spend
+- CTR:	Click Through Rate  (কত মানুষ অ্যাড দেখে ক্লিক করলো )                           CTR = (Clicks / Ad shown) x 100
+- CPC:	Cost Per Click  (প্রতি ক্লিকে কত টাকা খরচ হচ্ছে)                                  CPC = Ad Spend / Clicks
+- CPM:	Cost Per 1000 Impressions (1000 বার অ্যাড দেখাতে কত খরচ হচ্ছে)                  CPM = (Ad Spend / Ad Shown) x 1000
+- Conversion Rate:	Conversion Percentage  (কত ক্লিক থেকে Conversion হলো)              CR = (Conversions / Clicks) x 100
+- EPC:	Earnings Per Click  (প্রতি ক্লিকে average কত আয় হচ্ছে)                            EPC = Total Earnins / Clicks
+- CPA:	Cost Per Acquisition  (একটি conversion পেতে কত খরচ হচ্ছে)                      CPA = Ad Spend / Conversions
+- ROI:	Return On Investment  (লাভ না লস?)                                              ROI = (Profit / Ad Spend) x 100
+- ROAS:	Return On Ad Spend  (প্রতি $1 ad spend-এ কত income আসছে)                     ROAS = Income / Ad Spend
 
 If
 -	Ad Spend = $20
